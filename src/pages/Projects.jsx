@@ -3,19 +3,19 @@ const PROJECT_DATA = [
     title: "Vulnerable Web Application",
     desc: "Vulnerable web application built for web penetration testing practice, covering common web flaws in a simple Express and SQLite setup.",
     tech: ["Node.js", "Express.js", "SQLite", "Web Security", "Penetration Testing"],
-    repoUrl: "https://github.com/mohamed-besghaier/vuln-app"
+    repoUrl: "https://github.com/besghaier/vuln-app"
   },
   {
     title: "URL Risk Analyzer",
     desc: "Python CLI tool for URL security risk assessment, combining domain, TLS, and page-level checks with a scoring engine.",
     tech: ["Python", "Web Security", "Web Scraping", "CLI"],
-    repoUrl: "https://github.com/mohamed-besghaier/url-risk-analyzer"
+    repoUrl: "https://github.com/besghaier/url-risk-analyzer"
   },
   {
     title: "Artificial Life",
     desc: "University project covering agent-based models, cellular automata, and simulations in Python.",
     tech: ["Python", "OOP", "Cellular Automata", "Data Visualization"],
-    repoUrl: "https://github.com/mohamed-besghaier/artificial-life"
+    repoUrl: "https://github.com/besghaier/artificial-life"
   }
 ];
 
@@ -53,7 +53,7 @@ function Projects() {
           More work is available through my GitHub profile.
         </p>
         <a
-          href="https://github.com/mohamed-besghaier"
+          href="https://github.com/besghaier"
           target="_blank"
           rel="noopener noreferrer"
           className="cta cta-secondary"

@@ -1,4 +1,4 @@
-Personal portfolio built with React and Vite.
+# Personal portfolio built with React and Vite
 
 ## Stack
 

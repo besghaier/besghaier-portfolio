@@ -19,7 +19,7 @@ function Contact() {
           </a>
 
           <a
-            href="https://github.com/mohamed-besghaier"
+            href="https://github.com/besghaier"
             target="_blank"
             rel="noopener noreferrer"
             className="social-pill"
@@ -31,7 +31,7 @@ function Contact() {
           </a>
 
           <a
-            href="https://linkedin.com/in/mohamed-besghaier"
+            href="https://linkedin.com/in/besghaier"
             target="_blank"
             rel="noopener noreferrer"
             className="social-pill"
